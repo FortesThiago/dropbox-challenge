@@ -1,0 +1,21 @@
+
+Ocom.example.architecture.impl.v1.user.UserFacade#findAllUsers()Ljava/util/List;†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java ('"1*›
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (?
+%09com.example.architecture.impl.v1.user.service.UserService"__id*A*?2
+0com.example.architecture.impl.v1.user.UserFacade"	
+serviceÏÌ
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (%
+%1java.util.List"Xcom.example.architecture.impl.v1.user.service.UserService#findAllusers()Ljava/util/List;*A
+?
+%09com.example.architecture.impl.v1.user.service.UserService2findAllusers()"¡
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (&
+
+%1java.util.ListB42
+0com.example.architecture.impl.v1.user.UserFacade

@@ -1,0 +1,52 @@
+
+≤com.example.architecture.impl.v1.ImplFacade#uploadFile(Ljava/lang/String;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/impl/v1/file/model/FileModel;Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java, ,("1*π
+1Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java- -(Ü
+É
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java- -(6
+%00com.example.architecture.impl.v1.user.UserFacade"__id*?*=-
++com.example.architecture.impl.v1.ImplFacade"
+
+userFacadeÜ
+É
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java-) -(36
+%10com.example.architecture.impl.v1.file.FileFacade"__id*?*=-
++com.example.architecture.impl.v1.ImplFacade"
+
+fileFacade•¢
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java-? -(N5
+%2/com.example.architecture.impl.v1.user.UserModel"ycom.example.architecture.impl.v1.ImplFacade#findById(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/UserModel;*/-
++com.example.architecture.impl.v1.ImplFacade*
+
+ownerjava.lang.String2findById(Ljava/lang/String;)¡æ
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java-) -([;
+%35com.example.architecture.impl.v1.file.model.FileModel"÷com.example.architecture.impl.v1.file.FileFacade#uploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/impl/v1/file/model/FileModel;*8
+6
+%10com.example.architecture.impl.v1.file.FileFacade*7
+5
+%2/com.example.architecture.impl.v1.user.UserModel*?
+=
+
+fileToSave/org.springframework.web.multipart.MultipartFile2nuploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)ÎË
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java- -(\;
+%45com.example.architecture.impl.v1.file.model.FileModel"∫com.example.architecture.impl.v1.user.UserFacade#addFile(Ljava/lang/String;Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/impl/v1/file/model/FileModel;*8
+6
+%00com.example.architecture.impl.v1.user.UserFacade*
+
+ownerjava.lang.String*=
+;
+%35com.example.architecture.impl.v1.file.model.FileModel2RaddFile(Ljava/lang/String;Lcom/example/architecture/impl/v1/file/model/FileModel;)"√
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java- -(]=
+;
+%45com.example.architecture.impl.v1.file.model.FileModel:
+ownerjava.lang.String:=
+
+fileToSave/org.springframework.web.multipart.MultipartFileB/-
++com.example.architecture.impl.v1.ImplFacade

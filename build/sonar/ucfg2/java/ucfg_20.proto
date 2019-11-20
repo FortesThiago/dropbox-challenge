@@ -1,0 +1,81 @@
+
+Ãcom.example.architecture.contract.v1.user.mapper.UserMapper#mapToContract(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse;–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java	 	(,"1*Ð(
+1–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ 
+(õ
+ò
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ 
+(%_
+%0Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder"ªcom.example.architecture.contract.v1.user.model.response.UserResponse#builder()Lcom/example/architecture/contract/v1/user/model/response/UserResponse$UserResponseBuilder;*I"G
+Ecom.example.architecture.contract.v1.user.model.response.UserResponseÈÅ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (%
+%1java.lang.String"Icom.example.architecture.impl.v1.user.UserModel#getId()Ljava/lang/String;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2getId()àÝ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ (&_
+%2Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder"Ëcom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder#id(Ljava/lang/String;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse$UserResponseBuilder;*a
+_
+%0Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder*
+
+%1java.lang.String2id(Ljava/lang/String;)ÌÉ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java ()
+%3java.lang.String"Kcom.example.architecture.impl.v1.user.UserModel#getName()Ljava/lang/String;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2	getName()äá
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ (*_
+%4Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder"Ícom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder#name(Ljava/lang/String;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse$UserResponseBuilder;*a
+_
+%2Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder*
+
+%3java.lang.String2name(Ljava/lang/String;)ÎË
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (+
+%5java.lang.String"Lcom.example.architecture.impl.v1.user.UserModel#getEmail()Ljava/lang/String;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2
+getEmail()æã
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ (,_
+%6Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder"Îcom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder#email(Ljava/lang/String;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse$UserResponseBuilder;*a
+_
+%4Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder*
+
+%5java.lang.String2email(Ljava/lang/String;)ÊÇ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (+
+%7java.util.List"Jcom.example.architecture.impl.v1.user.UserModel#getFiles()Ljava/util/List;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2
+getFiles()àÝ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ (,_
+%8Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder"Ìcom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder#files(Ljava/util/List;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse$UserResponseBuilder;*a
+_
+%6Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder*
+
+%7java.util.List2files(Ljava/util/List;)€ý
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ (K
+%9Ecom.example.architecture.contract.v1.user.model.response.UserResponse"¨com.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder#build()Lcom/example/architecture/contract/v1/user/model/response/UserResponse;*a
+_
+%8Ycom.example.architecture.contract.v1.user.model.response.UserResponse$UserResponseBuilder2build()"è
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java
+ (M
+K
+%9Ecom.example.architecture.contract.v1.user.model.response.UserResponse:<
+	userModel/com.example.architecture.impl.v1.user.UserModelB?"=
+;com.example.architecture.contract.v1.user.mapper.UserMapper

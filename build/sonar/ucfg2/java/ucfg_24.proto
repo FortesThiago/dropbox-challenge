@@ -1,0 +1,160 @@
+
+ﬂcom.example.architecture.impl.v1.file.service.FileService#uploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/impl/v1/file/model/FileModel;ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java ("17*˘
+13ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java!" !(&Ÿ÷
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java!" !(<
+%6java.lang.String"Worg.springframework.web.multipart.MultipartFile#getOriginalFilename()Ljava/lang/String;*9
+7
+file/org.springframework.web.multipart.MultipartFile2getOriginalFilename()*
+12*∏
+14ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag  (+òï
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag  (+L
+%5Fcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder"™com.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder#idOwner(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/model/FileModel$FileModelBuilder;*N
+L
+%3Fcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder*
+
+%4java.lang.String2idOwner(Ljava/lang/String;)*
+13*ﬁ
+15ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java   ("æª
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java   (*
+%4java.lang.String"Icom.example.architecture.impl.v1.user.UserModel#getId()Ljava/lang/String;*:
+8
+owner/com.example.architecture.impl.v1.user.UserModel2getId()*
+14*˜
+16ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java" (,´
+®
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java< (J:
+%24com.example.architecture.impl.v1.file.FileRepository"__id*Q*O;
+9com.example.architecture.impl.v1.file.service.FileService"
+fileRepository©
+¶
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag (zL
+%3Fcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder"ácom.example.architecture.impl.v1.file.model.FileModel#builder()Lcom/example/architecture/impl/v1/file/model/FileModel$FileModelBuilder;*9"7
+5com.example.architecture.impl.v1.file.model.FileModel*
+15*ª
+17ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java (ß
+§
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java (:
+%04com.example.architecture.impl.v1.file.ftp.FTPService"__id*M*K;
+9com.example.architecture.impl.v1.file.service.FileService"
+
+ftpServiceÒÓ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java (.
+%1boolean"§com.example.architecture.impl.v1.file.ftp.FTPService#uploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)Z*<
+:
+%04com.example.architecture.impl.v1.file.ftp.FTPService*:
+8
+owner/com.example.architecture.impl.v1.user.UserModel*9
+7
+file/org.springframework.web.multipart.MultipartFile2nuploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)*
+16*Ú
+4ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java$ $("Ÿ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java$ $(D
+B
+	fileSaved5com.example.architecture.impl.v1.file.model.FileModel*ã
+5ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java#! #(OÔ
+Ï
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java#! #(O
+%14java.lang.String"__concat*
+
+%12java.lang.String*
+
+%13java.lang.String˚¯
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java# #(P
+%15void"Ucom.example.architecture.impl.v1.file.model.FileModel#setFtpName(Ljava/lang/String;)V*D
+B
+	fileSaved5com.example.architecture.impl.v1.file.model.FileModel*
+
+%14java.lang.String2setFtpName(Ljava/lang/String;)*
+4*¯
+6ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java#5 #(9⁄◊
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java#5 #(O
+%13java.lang.String"Worg.springframework.web.multipart.MultipartFile#getOriginalFilename()Ljava/lang/String;*9
+7
+file/org.springframework.web.multipart.MultipartFile2getOriginalFilename()*
+5*ê
+7ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java "( †
+ù
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java "( B
+	fileSaved5com.example.architecture.impl.v1.file.model.FileModel"__id*>
+<
+%115com.example.architecture.impl.v1.file.model.FileModelœÃ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java#! #(2
+%12java.lang.String"Ocom.example.architecture.impl.v1.file.model.FileModel#getId()Ljava/lang/String;*D
+B
+	fileSaved5com.example.architecture.impl.v1.file.model.FileModel2getId()*
+6*Ô
+8ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java" "(—
+Œ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java" "(<
+%115com.example.architecture.impl.v1.file.model.FileModel"±com.example.architecture.impl.v1.file.mapper.FileMapper#mapToFileModel(Lcom/example/architecture/impl/v1/file/FileEntity;)Lcom/example/architecture/impl/v1/file/model/FileModel;*;"9
+7com.example.architecture.impl.v1.file.mapper.FileMapper*
+
+
+%10S*
+7*Ø
+9ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java< "(ëé
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java< "(
+%10S"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*<
+:
+%24com.example.architecture.impl.v1.file.FileRepository*8
+6
+%90com.example.architecture.impl.v1.file.FileEntity2save(Ljava/lang/Object;)*
+8*ö
+10ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaP "(˚
+¯
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaP "(6
+%90com.example.architecture.impl.v1.file.FileEntity"Æcom.example.architecture.impl.v1.file.mapper.FileMapper#mapToEntity(Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/impl/v1/file/FileEntity;*;"9
+7com.example.architecture.impl.v1.file.mapper.FileMapper*=
+;
+%85com.example.architecture.impl.v1.file.model.FileModel*
+9*‘
+11ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag "(¥±
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag "(;
+%85com.example.architecture.impl.v1.file.model.FileModel"Öcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder#build()Lcom/example/architecture/impl/v1/file/model/FileModel;*N
+L
+%7Fcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder2build()*
+10*¬
+12ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag !(=¢ü
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javag !(=L
+%7Fcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder"Øcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder#originalName(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/model/FileModel$FileModelBuilder;*N
+L
+%5Fcom.example.architecture.impl.v1.file.model.FileModel$FileModelBuilder*
+
+%6java.lang.String2 originalName(Ljava/lang/String;)*
+11:8
+owner/com.example.architecture.impl.v1.user.UserModel:7
+file/org.springframework.web.multipart.MultipartFileB=;
+9com.example.architecture.impl.v1.file.service.FileService

@@ -1,0 +1,37 @@
+
+Ócom.example.architecture.contract.v1.user.UserContractFacade#uploadFile(Ljava/lang/String;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/contract/v1/user/model/response/FileResponse;—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java0 0(""1*ã
+1—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java1 1(¨
+¥
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java1( 1(21
+%0+com.example.architecture.impl.v1.ImplFacade"__id*P*N>
+<com.example.architecture.contract.v1.user.UserContractFacade"
+
+implFacadeóð
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java1( 1(P;
+%15com.example.architecture.impl.v1.file.model.FileModel"²com.example.architecture.impl.v1.ImplFacade#uploadFile(Ljava/lang/String;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/impl/v1/file/model/FileModel;*3
+1
+%0+com.example.architecture.impl.v1.ImplFacade*
+
+ownerjava.lang.String*?
+=
+
+fileToSave/org.springframework.web.multipart.MultipartFile2OuploadFile(Ljava/lang/String;Lorg/springframework/web/multipart/MultipartFile;)¶
+³
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java1 1(QK
+%2Ecom.example.architecture.contract.v1.user.model.response.FileResponse"Écom.example.architecture.contract.v1.user.mapper.FileMapper#mapToContract(Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/contract/v1/user/model/response/FileResponse;*?"=
+;com.example.architecture.contract.v1.user.mapper.FileMapper*=
+;
+%15com.example.architecture.impl.v1.file.model.FileModel"é
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java1 1(RM
+K
+%2Ecom.example.architecture.contract.v1.user.model.response.FileResponse:
+ownerjava.lang.String:=
+
+fileToSave/org.springframework.web.multipart.MultipartFileB@>
+<com.example.architecture.contract.v1.user.UserContractFacade

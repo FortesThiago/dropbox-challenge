@@ -1,0 +1,25 @@
+
+ñcom.example.architecture.impl.v1.ImplFacade#create(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java# #("1*ﬂ
+1Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java$ $(Ü
+É
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java$ $(6
+%00com.example.architecture.impl.v1.user.UserFacade"__id*?*=-
++com.example.architecture.impl.v1.ImplFacade"
+
+userFacadeåâ
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java$ $(&5
+%1/com.example.architecture.impl.v1.user.UserModel"õcom.example.architecture.impl.v1.user.UserFacade#create(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;*8
+6
+%00com.example.architecture.impl.v1.user.UserFacade*9
+7
+user/com.example.architecture.impl.v1.user.UserModel29create(Lcom/example/architecture/impl/v1/user/UserModel;)"Ω
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java$ $('7
+5
+%1/com.example.architecture.impl.v1.user.UserModel:7
+user/com.example.architecture.impl.v1.user.UserModelB/-
++com.example.architecture.impl.v1.ImplFacade

@@ -1,0 +1,26 @@
+
+Åcom.example.architecture.impl.v1.file.FileFacade#deleteFile(Lcom/example/architecture/impl/v1/user/UserModel;Ljava/lang/String;)ZÜ
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java ("1*“
+1Ü
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (ñ
+ì
+Ü
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (?
+%09com.example.architecture.impl.v1.file.service.FileService"__id*A*?2
+0com.example.architecture.impl.v1.file.FileFacade"	
+serviceñì
+Ü
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (0
+%1boolean"äcom.example.architecture.impl.v1.file.service.FileService#deleteFile(Lcom/example/architecture/impl/v1/user/UserModel;Ljava/lang/String;)Z*A
+?
+%09com.example.architecture.impl.v1.file.service.FileService*:
+8
+owner/com.example.architecture.impl.v1.user.UserModel*
+
+fileIdjava.lang.String2OdeleteFile(Lcom/example/architecture/impl/v1/user/UserModel;Ljava/lang/String;)"ë
+Ü
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (1
+"":8
+owner/com.example.architecture.impl.v1.user.UserModel:
+fileIdjava.lang.StringB42
+0com.example.architecture.impl.v1.file.FileFacade

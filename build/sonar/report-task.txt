@@ -1,0 +1,7 @@
+organization=fortesthiago
+projectKey=FortesThiago_DropboxChallenge
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2779
+dashboardUrl=https://sonarcloud.io/dashboard?id=FortesThiago_DropboxChallenge
+ceTaskId=AW6EujyujEgPNufReoBA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW6EujyujEgPNufReoBA

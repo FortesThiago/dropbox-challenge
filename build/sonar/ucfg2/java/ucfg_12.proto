@@ -1,0 +1,45 @@
+
+[com.example.architecture.contract.v1.user.UserContractFacade#findAllUsers()Ljava/util/List;—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java" "($"1*Ö
+1—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# #(¨
+¥
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# #(1
+%0+com.example.architecture.impl.v1.ImplFacade"__id*P*N>
+<com.example.architecture.contract.v1.user.UserContractFacade"
+
+implFacadeÄÁ
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# #((
+%1java.util.List"Jcom.example.architecture.impl.v1.ImplFacade#findAllUsers()Ljava/util/List;*3
+1
+%0+com.example.architecture.impl.v1.ImplFacade2findAllUsers()–“
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# #(1
+%2java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%1java.util.List2stream()ÞÛ
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# $(/
+%3java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*
+
+%2java.util.stream.Stream*
+""2"map(Ljava/util/function/Function;)¢
+Ÿ
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java% %(, 
+%4java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*"
+java.util.stream.Collectorsðí
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# %(-
+%5java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*
+
+%3java.util.stream.Stream*"
+ 
+%4java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)"²
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java# %(.
+
+%5java.util.ListB@>
+<com.example.architecture.contract.v1.user.UserContractFacade

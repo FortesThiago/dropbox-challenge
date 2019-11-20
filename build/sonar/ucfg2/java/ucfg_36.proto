@@ -1,0 +1,25 @@
+
+]com.example.architecture.impl.v1.user.service.UserService#deleteUserById(Ljava/lang/String;)Zê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java3 3(!"1*Â
+1ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java4 4(≤
+Ø
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java4 4(E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository"__id*M*K;
+9com.example.architecture.impl.v1.user.service.UserService"
+
+repository˘ˆ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java4 4(!
+
+%1void"Rorg.springframework.data.repository.CrudRepository#deleteById(Ljava/lang/Object;)V*G
+E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository*
+
+idjava.lang.String2deleteById(Ljava/lang/Object;)"õ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java5 5(
+"":
+idjava.lang.StringB=;
+9com.example.architecture.impl.v1.user.service.UserService

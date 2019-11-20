@@ -1,0 +1,72 @@
+
+∆com.example.architecture.impl.v1.file.exception.GenericExeption#handleAnyException(Ljava/lang/Exception;Lorg/springframework/web/context/request/WebRequest;)Lorg/springframework/http/ResponseEntity;ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java" (4"paramAnnotations*∞	
+paramAnnotationsñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java4 (Vâ
+Ü
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java (0
+%5"
+__annotate*<:
+8org.springframework.web.bind.annotation.ExceptionHandler*
+
+exjava.lang.ExceptionÕ
+ 
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java? (A
+exjava.lang.Exception"__annotation*
+
+%5≠
+™
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java (0
+%6"
+__annotate*<:
+8org.springframework.web.bind.annotation.ExceptionHandler*?
+=
+request2org.springframework.web.context.request.WebRequestÒ
+Ó
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.javaN (U=
+request2org.springframework.web.context.request.WebRequest"__annotation*
+
+%6*
+1*ç
+1ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java$ (&ÓÎ
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java, (7*
+%0$org.springframework.http.HttpHeaders"$org.springframework.http.HttpHeadersÄ
+˝
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java( (9
+%1".org.springframework.http.HttpHeaders#<init>()V*,
+*
+%0$org.springframework.http.HttpHeaders’
+“
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java; ([)
+%2#org.springframework.http.HttpStatus"__id*
+""ÙÒ
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java (#-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityﬁ
+€
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java (\
+%4"êorg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/util/MultiValueMap;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*
+
+exjava.lang.Exception*,
+*
+%0$org.springframework.http.HttpHeaders*+
+)
+%2#org.springframework.http.HttpStatus" 
+ñ
+ã/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/exception/GenericExeption.java (]/
+-
+%3'org.springframework.http.ResponseEntity:
+exjava.lang.Exception:=
+request2org.springframework.web.context.request.WebRequestBCA
+?com.example.architecture.impl.v1.file.exception.GenericExeption

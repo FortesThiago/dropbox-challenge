@@ -1,0 +1,87 @@
+
+ƒcom.example.architecture.impl.v1.user.service.UserService#addFiles(Ljava/lang/String;Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/impl/v1/file/model/FileModel;ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java ("1*¸$
+1ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java ((≤
+Ø
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java4 (>E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository"__id*M*K;
+9com.example.architecture.impl.v1.user.service.UserService"
+
+repositoryß§
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java4 (O
+%1java.util.Optional"pcom.example.architecture.impl.v1.user.repository.UserRepository#findById(Ljava/lang/String;)Ljava/util/Optional;*G
+E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository*
+
+userIdjava.lang.String2findById(Ljava/lang/String;)∏µ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java4 (]A
+%2;com.example.architecture.impl.v1.user.repository.UserEntity"2java.util.Optional#orElseThrow()Ljava/lang/Object;*
+
+%1java.util.Optional2orElseThrow()Ñ
+Å
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (^5
+%3/com.example.architecture.impl.v1.user.UserModel"≤com.example.architecture.impl.v1.user.mapper.UserMapper#mapToModel(Lcom/example/architecture/impl/v1/user/repository/UserEntity;)Lcom/example/architecture/impl/v1/user/UserModel;*;"9
+7com.example.architecture.impl.v1.user.mapper.UserMapper*C
+A
+%2;com.example.architecture.impl.v1.user.repository.UserEntityì
+ê
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (_<
+	userModel/com.example.architecture.impl.v1.user.UserModel"__id*7
+5
+%3/com.example.architecture.impl.v1.user.UserModelƒ¡
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java '  (;
+%4java.util.List"Jcom.example.architecture.impl.v1.user.UserModel#getFiles()Ljava/util/List;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2
+getFiles()ª∏
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java   (B
+%5java.util.List"ûcom.example.architecture.impl.v1.user.service.UserService#addFileList(Ljava/util/List;Lcom/example/architecture/impl/v1/file/model/FileModel;)Ljava/util/List;*=;
+9com.example.architecture.impl.v1.user.service.UserService*
+
+%4java.util.List*?
+=
+file5com.example.architecture.impl.v1.file.model.FileModel2TaddFileList(Ljava/util/List;Lcom/example/architecture/impl/v1/file/model/FileModel;)„‡
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java   (C
+
+%6void"Kcom.example.architecture.impl.v1.user.UserModel#setFiles(Ljava/util/List;)V*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel*
+
+%5java.util.List2setFiles(Ljava/util/List;)≤
+Ø
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java! !(E
+%7?com.example.architecture.impl.v1.user.repository.UserRepository"__id*M*K;
+9com.example.architecture.impl.v1.user.service.UserService"
+
+repositoryå
+â
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java! !(9A
+%8;com.example.architecture.impl.v1.user.repository.UserEntity"≥com.example.architecture.impl.v1.user.mapper.UserMapper#mapToEntity(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/repository/UserEntity;*;"9
+7com.example.architecture.impl.v1.user.mapper.UserMapper*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel¶£
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java! !(:
+%9S"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*G
+E
+%7?com.example.architecture.impl.v1.user.repository.UserRepository*C
+A
+%8;com.example.architecture.impl.v1.user.repository.UserEntity2save(Ljava/lang/Object;)"‘
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java" "(?
+=
+file5com.example.architecture.impl.v1.file.model.FileModel:
+userIdjava.lang.String:=
+file5com.example.architecture.impl.v1.file.model.FileModelB=;
+9com.example.architecture.impl.v1.user.service.UserService

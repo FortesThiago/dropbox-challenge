@@ -1,0 +1,47 @@
+
+Ñcom.example.architecture.contract.v1.user.mapper.FileMapper#mapToFTPFileResponse(Lcom/example/architecture/impl/v1/file/model/FTPFile;)Lcom/example/architecture/contract/v1/user/model/response/FTPFileResponse;–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java" (6"1*†
+1–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java (‡
+„
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java ((e
+%0_com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder"³com.example.architecture.contract.v1.user.model.response.FTPFileResponse#builder()Lcom/example/architecture/contract/v1/user/model/response/FTPFileResponse$FTPFileResponseBuilder;*L"J
+Hcom.example.architecture.contract.v1.user.model.response.FTPFileResponseÒÏ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java ('
+%1java.lang.String"Ocom.example.architecture.impl.v1.file.model.FTPFile#getName()Ljava/lang/String;*@
+>
+ftpFile3com.example.architecture.impl.v1.file.model.FTPFile2	getName()üù
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java ((e
+%2_com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder"Ùcom.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder#name(Ljava/lang/String;)Lcom/example/architecture/contract/v1/user/model/response/FTPFileResponse$FTPFileResponseBuilder;*g
+e
+%0_com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder*
+
+%1java.lang.String2name(Ljava/lang/String;)µ²
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java ('
+
+%3long">com.example.architecture.impl.v1.file.model.FTPFile#getSize()J*@
+>
+ftpFile3com.example.architecture.impl.v1.file.model.FTPFile2	getSize()ÎË
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java ((e
+%4_com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder"Ècom.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder#size(J)Lcom/example/architecture/contract/v1/user/model/response/FTPFileResponse$FTPFileResponseBuilder;*g
+e
+%2_com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder*
+
+
+%3long2size(J)’
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java (N
+%5Hcom.example.architecture.contract.v1.user.model.response.FTPFileResponse"±com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder#build()Lcom/example/architecture/contract/v1/user/model/response/FTPFileResponse;*g
+e
+%4_com.example.architecture.contract.v1.user.model.response.FTPFileResponse$FTPFileResponseBuilder2build()"ë
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/FileMapper.java (P
+N
+%5Hcom.example.architecture.contract.v1.user.model.response.FTPFileResponse:>
+ftpFile3com.example.architecture.impl.v1.file.model.FTPFileB?"=
+;com.example.architecture.contract.v1.user.mapper.FileMapper

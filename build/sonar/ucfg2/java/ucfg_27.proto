@@ -1,0 +1,99 @@
+
+®com.example.architecture.impl.v1.file.service.FileService#paginateList(Ljava/util/List;Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java: :($"4*◊
+2ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaC C(Ê„
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaC= C(S	
+%4int"java.util.List#size()I*#
+!
+listoToPaginatejava.util.List2size()„
+‡
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaC C(T	
+%5int"java.lang.Math#min(II)I*"
+java.lang.Math*
+""*
+	
+%4intöó
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaD D(?
+%6java.util.List"*java.util.List#subList(II)Ljava/util/List;*#
+!
+listoToPaginatejava.util.List*
+""*
+""2subList(II)Õ
+ 
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaD D(?
+filesjava.util.List"__id*
+
+%6java.util.List*
+1*”
+3ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaA A(Â
+‚
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaA A(
+%3java.util.List"#java.util.List#of()Ljava/util/List;*"
+java.util.ListÕ
+ 
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaA A(
+filesjava.util.List"__id*
+
+%3java.util.List*
+1*ì	
+4ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java; ;(#°û
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java; ;(1	
+%0int"7org.springframework.data.domain.Pageable#getPageSize()I*6
+4
+pageable(org.springframework.data.domain.Pageable2getPageSize()•¢
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java< <(2	
+%1int"9org.springframework.data.domain.Pageable#getPageNumber()I*6
+4
+pageable(org.springframework.data.domain.Pageable2getPageNumber()Ω
+∫
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java? ?(
+filesjava.util.List"__id*
+""Ê„
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.java@ @("	
+%2int"java.util.List#size()I*#
+!
+listoToPaginatejava.util.List2size()*
+2
+3*⁄	
+1ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaF F(#Ê„
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaF/ F(E	
+%7int"java.util.List#size()I*#
+!
+listoToPaginatejava.util.List2size()Ì
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaF F(.
+%8(org.springframework.data.domain.PageImpl"(org.springframework.data.domain.PageImplù
+ö
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaF F(F
+%9"morg.springframework.data.domain.PageImpl#<init>(Ljava/util/List;Lorg/springframework/data/domain/Pageable;J)V*0
+.
+%8(org.springframework.data.domain.PageImpl*
+
+filesjava.util.List*6
+4
+pageable(org.springframework.data.domain.Pageable*
+	
+%7int"≈
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/service/FileService.javaF F(G0
+.
+%8(org.springframework.data.domain.PageImpl:!
+listoToPaginatejava.util.List:4
+pageable(org.springframework.data.domain.PageableB=;
+9com.example.architecture.impl.v1.file.service.FileService

@@ -1,0 +1,22 @@
+
+Jcom.example.architecture.impl.v1.ImplFacade#findAllUsers()Ljava/util/List;Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java ('"1*Í
+1Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java   (Ü
+É
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java   (6
+%00com.example.architecture.impl.v1.user.UserFacade"__id*?*=-
++com.example.architecture.impl.v1.ImplFacade"
+
+userFacade∏µ
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java   ((
+%1java.util.List"Ocom.example.architecture.impl.v1.user.UserFacade#findAllUsers()Ljava/util/List;*8
+6
+%00com.example.architecture.impl.v1.user.UserFacade2findAllUsers()"ú
+Å
+w/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/ImplFacade.java   ()
+
+%1java.util.ListB/-
++com.example.architecture.impl.v1.ImplFacade

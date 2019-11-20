@@ -1,0 +1,30 @@
+
+Öcom.example.architecture.impl.v1.file.FileFacade#uploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/impl/v1/file/model/FileModel;†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java ("1*Î
+
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (?
+%09com.example.architecture.impl.v1.file.service.FileService"__id*A*?2
+0com.example.architecture.impl.v1.file.FileFacade"	
+serviceÛØ
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (4;
+%15com.example.architecture.impl.v1.file.model.FileModel"ßcom.example.architecture.impl.v1.file.service.FileService#uploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)Lcom/example/architecture/impl/v1/file/model/FileModel;*A
+?
+%09com.example.architecture.impl.v1.file.service.FileService*:
+8
+owner/com.example.architecture.impl.v1.user.UserModel*?
+=
+
+fileToSave/org.springframework.web.multipart.MultipartFile2nuploadFile(Lcom/example/architecture/impl/v1/user/UserModel;Lorg/springframework/web/multipart/MultipartFile;)"È
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (5=
+;
+%15com.example.architecture.impl.v1.file.model.FileModel:8
+owner/com.example.architecture.impl.v1.user.UserModel:=
+
+fileToSave/org.springframework.web.multipart.MultipartFileB42
+0com.example.architecture.impl.v1.file.FileFacade

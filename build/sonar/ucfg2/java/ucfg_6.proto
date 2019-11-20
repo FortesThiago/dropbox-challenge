@@ -1,0 +1,119 @@
+
+µcom.example.architecture.contract.v1.user.Controller#updateUser(Ljava/lang/String;Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java7 7("paramAnnotations*ð
+paramAnnotations
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java7 7(Zê
+ç
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java4 4(7
+%2"
+__annotate*'%
+#io.swagger.annotations.ApiOperation*
+
+idjava.lang.Stringù
+ö
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java5 5(
+%3"
+__annotate*64
+2org.springframework.web.bind.annotation.PutMapping*
+
+idjava.lang.Stringý
+ú
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java6 6(*
+%4"
+__annotate*:8
+6org.springframework.web.bind.annotation.ResponseStatus*
+
+idjava.lang.Stringû
+ø
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java7  7(-
+%5"
+__annotate*86
+4org.springframework.web.bind.annotation.PathVariable*
+
+idjava.lang.StringÛ
+Ø
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java75 7(7
+idjava.lang.String"__annotation*
+
+%2*
+
+%3*
+
+%4*
+
+%5
+
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java4 4(7
+%6"
+__annotate*'%
+#io.swagger.annotations.ApiOperation*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModelŸ
+œ
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java5 5(
+%7"
+__annotate*64
+2org.springframework.web.bind.annotation.PutMapping*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel£
+ 
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java6 6(*
+%8"
+__annotate*:8
+6org.springframework.web.bind.annotation.ResponseStatus*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel 
+
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java79 7(E
+%9"
+__annotate*75
+3org.springframework.web.bind.annotation.RequestBody*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel
+þ
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java7P 7(Y<
+	userModel/com.example.architecture.impl.v1.user.UserModel"__annotation*
+
+%6*
+
+%7*
+
+%8*
+
+%9*
+1*‹
+
+1
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java8 8(¥
+¢
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java8 8(B
+%0<com.example.architecture.contract.v1.user.UserContractFacade"__id*D*B6
+4com.example.architecture.contract.v1.user.Controller"
+facadeýú
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java8 8(/5
+%1/com.example.architecture.impl.v1.user.UserModel"½com.example.architecture.contract.v1.user.UserContractFacade#updateUser(Ljava/lang/String;Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;*D
+B
+%0<com.example.architecture.contract.v1.user.UserContractFacade*
+
+idjava.lang.String*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2OupdateUser(Ljava/lang/String;Lcom/example/architecture/impl/v1/user/UserModel;)"Ë
+
+„/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java8 8(07
+5
+%1/com.example.architecture.impl.v1.user.UserModel:
+idjava.lang.String:<
+	userModel/com.example.architecture.impl.v1.user.UserModelB86
+4com.example.architecture.contract.v1.user.Controller

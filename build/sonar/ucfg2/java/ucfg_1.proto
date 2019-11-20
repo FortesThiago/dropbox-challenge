@@ -1,0 +1,54 @@
+
+mcom.example.architecture.contract.v1.config.SwaggerConfig#metadata()Lspringfox/documentation/service/ApiInfo;”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java ("1*Æ
+1”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (#‚ÿ
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (!5
+%0/springfox.documentation.builders.ApiInfoBuilder"/springfox.documentation.builders.ApiInfoBuilder”
+‘
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (#
+%1"9springfox.documentation.builders.ApiInfoBuilder#<init>()V*7
+5
+%0/springfox.documentation.builders.ApiInfoBuilder®«
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (45
+%2/springfox.documentation.builders.ApiInfoBuilder"zspringfox.documentation.builders.ApiInfoBuilder#title(Ljava/lang/String;)Lspringfox/documentation/builders/ApiInfoBuilder;*7
+5
+%0/springfox.documentation.builders.ApiInfoBuilder*	
+DropBox2title(Ljava/lang/String;)ÉÆ
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (55
+%3/springfox.documentation.builders.ApiInfoBuilder"€springfox.documentation.builders.ApiInfoBuilder#description(Ljava/lang/String;)Lspringfox/documentation/builders/ApiInfoBuilder;*7
+5
+%2/springfox.documentation.builders.ApiInfoBuilder*
+Dropbox Documentation2description(Ljava/lang/String;)®«
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (5
+%4/springfox.documentation.builders.ApiInfoBuilder"|springfox.documentation.builders.ApiInfoBuilder#version(Ljava/lang/String;)Lspringfox/documentation/builders/ApiInfoBuilder;*7
+5
+%3/springfox.documentation.builders.ApiInfoBuilder*
+1.02version(Ljava/lang/String;)ÅÂ
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (65
+%5/springfox.documentation.builders.ApiInfoBuilder"|springfox.documentation.builders.ApiInfoBuilder#license(Ljava/lang/String;)Lspringfox/documentation/builders/ApiInfoBuilder;*7
+5
+%4/springfox.documentation.builders.ApiInfoBuilder*
+Apache License Version 2.02license(Ljava/lang/String;)ÜÙ
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (J5
+%6/springfox.documentation.builders.ApiInfoBuilder"springfox.documentation.builders.ApiInfoBuilder#licenseUrl(Ljava/lang/String;)Lspringfox/documentation/builders/ApiInfoBuilder;*7
+5
+%5/springfox.documentation.builders.ApiInfoBuilder*/-
++https://www.apache.org/licenses/LICENSE-2.02licenseUrl(Ljava/lang/String;)íê
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (-
+%7'springfox.documentation.service.ApiInfo"`springfox.documentation.builders.ApiInfoBuilder#build()Lspringfox/documentation/service/ApiInfo;*7
+5
+%6/springfox.documentation.builders.ApiInfoBuilder2build()"È
+”
+‰/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/config/SwaggerConfig.java (/
+-
+%7'springfox.documentation.service.ApiInfoB=;
+9com.example.architecture.contract.v1.config.SwaggerConfig

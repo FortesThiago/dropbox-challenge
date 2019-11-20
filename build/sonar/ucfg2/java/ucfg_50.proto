@@ -1,0 +1,101 @@
+
+qcom.example.architecture.impl.v1.file.ftp.FTPService#ftpClientGetInstance()Lorg/apache/commons/net/ftp/FTPClient;‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java   (*"9*Ñ
+4‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java' '("½
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java' '(-
++
+ftp$org.apache.commons.net.ftp.FTPClient*ù
+5‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java& &(ª
+§
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java&$ &(@	
+%9int"__id*
+""³°
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java& &(A
+%10boolean"<org.apache.commons.net.ftp.FTPClient#setFileTransferMode(I)Z*-
++
+ftp$org.apache.commons.net.ftp.FTPClient*
+	
+%9int2setFileTransferMode(I)*
+4*è
+6‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java% %(ª
+§
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java% %(0	
+%7int"__id*
+""¢Ÿ
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java% %(1
+%8boolean"4org.apache.commons.net.ftp.FTPClient#setFileType(I)Z*-
++
+ftp$org.apache.commons.net.ftp.FTPClient*
+	
+%7int2setFileType(I)*
+5*
+7‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java$ $(÷
+ô
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java$ $(
+%4java.lang.String"__id*F*D6
+4com.example.architecture.impl.v1.file.ftp.FTPService"
+
+username÷
+ô
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java$  $((
+%5java.lang.String"__id*F*D6
+4com.example.architecture.impl.v1.file.ftp.FTPService"
+
+passwordƒ€
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java$ $()
+%6boolean"Qorg.apache.commons.net.ftp.FTPClient#login(Ljava/lang/String;Ljava/lang/String;)Z*-
++
+ftp$org.apache.commons.net.ftp.FTPClient*
+
+%4java.lang.String*
+
+%5java.lang.String2+login(Ljava/lang/String;Ljava/lang/String;)*
+6*Ô
+8‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java# #(ó
+ð
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java# #(
+%2java.lang.String"__id*B*@6
+4com.example.architecture.impl.v1.file.ftp.FTPService"
+hostÅÂ
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java# #(
+
+%3void"@org.apache.commons.net.SocketClient#connect(Ljava/lang/String;)V*-
++
+ftp$org.apache.commons.net.ftp.FTPClient*
+
+%2java.lang.String2connect(Ljava/lang/String;)*
+7*é
+9‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java! !((ãà
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java! !(&*
+%0$org.apache.commons.net.ftp.FTPClient"$org.apache.commons.net.ftp.FTPClientõ
+ò
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java! !((
+%1".org.apache.commons.net.ftp.FTPClient#<init>()V*,
+*
+%0$org.apache.commons.net.ftp.FTPClientò
+ï
+‹
+€/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/ftp/FTPService.java! !()+
+ftp$org.apache.commons.net.ftp.FTPClient"__id*,
+*
+%0$org.apache.commons.net.ftp.FTPClient*
+8B86
+4com.example.architecture.impl.v1.file.ftp.FTPService

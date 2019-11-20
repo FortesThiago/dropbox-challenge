@@ -1,0 +1,27 @@
+
+ºcom.example.architecture.impl.v1.user.UserFacade#addFile(Ljava/lang/String;Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/impl/v1/file/model/FileModel;†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java ("1*û	
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java   (–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java   (?
+%09com.example.architecture.impl.v1.user.service.UserService"__id*A*?2
+0com.example.architecture.impl.v1.user.UserFacade"	
+serviceˆ…
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java   (.;
+%15com.example.architecture.impl.v1.file.model.FileModel"Äcom.example.architecture.impl.v1.user.service.UserService#addFiles(Ljava/lang/String;Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/impl/v1/file/model/FileModel;*A
+?
+%09com.example.architecture.impl.v1.user.service.UserService*
+
+userjava.lang.String*B
+@
+fileAdd5com.example.architecture.impl.v1.file.model.FileModel2SaddFiles(Ljava/lang/String;Lcom/example/architecture/impl/v1/file/model/FileModel;)"È
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java   (/=
+;
+%15com.example.architecture.impl.v1.file.model.FileModel:
+userjava.lang.String:@
+fileAdd5com.example.architecture.impl.v1.file.model.FileModelB42
+0com.example.architecture.impl.v1.user.UserFacade

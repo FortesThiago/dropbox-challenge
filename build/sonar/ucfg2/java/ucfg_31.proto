@@ -1,0 +1,39 @@
+
+§com.example.architecture.impl.v1.user.service.UserService#create(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java ("1*ö
+1ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (≤
+Ø
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java% (/E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository"__id*M*K;
+9com.example.architecture.impl.v1.user.service.UserService"
+
+repositoryá
+Ñ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java5 (QA
+%1;com.example.architecture.impl.v1.user.repository.UserEntity"≥com.example.architecture.impl.v1.user.mapper.UserMapper#mapToEntity(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/repository/UserEntity;*;"9
+7com.example.architecture.impl.v1.user.mapper.UserMapper*9
+7
+user/com.example.architecture.impl.v1.user.UserModel¶£
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java% (R
+%2S"]org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;*G
+E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository*C
+A
+%1;com.example.architecture.impl.v1.user.repository.UserEntity2save(Ljava/lang/Object;) 
+«
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (S5
+%3/com.example.architecture.impl.v1.user.UserModel"≤com.example.architecture.impl.v1.user.mapper.UserMapper#mapToModel(Lcom/example/architecture/impl/v1/user/repository/UserEntity;)Lcom/example/architecture/impl/v1/user/UserModel;*;"9
+7com.example.architecture.impl.v1.user.mapper.UserMapper*	
+
+%2S"Ã
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (T7
+5
+%3/com.example.architecture.impl.v1.user.UserModel:7
+user/com.example.architecture.impl.v1.user.UserModelB=;
+9com.example.architecture.impl.v1.user.service.UserService

@@ -1,0 +1,72 @@
+
+Æcom.example.architecture.impl.v1.file.mapper.FileMapper#mapToEntity(Lcom/example/architecture/impl/v1/file/model/FileModel;)Lcom/example/architecture/impl/v1/file/FileEntity;é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (("1*£$
+1é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 	(î
+ë
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 	(#H
+%0Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder"~com.example.architecture.impl.v1.file.FileEntity#builder()Lcom/example/architecture/impl/v1/file/FileEntity$FileEntityBuilder;*4"2
+0com.example.architecture.impl.v1.file.FileEntityÃ…
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java
+ 
+(%
+%1java.lang.String"Ocom.example.architecture.impl.v1.file.model.FileModel#getId()Ljava/lang/String;*D
+B
+	fileModel5com.example.architecture.impl.v1.file.model.FileModel2getId()¸˘
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 
+(&H
+%2Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder"ùcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder#id(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/FileEntity$FileEntityBuilder;*J
+H
+%0Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder*
+
+%1java.lang.String2id(Ljava/lang/String;)÷”
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (/
+%3java.lang.String"Tcom.example.architecture.impl.v1.file.model.FileModel#getIdOwner()Ljava/lang/String;*D
+B
+	fileModel5com.example.architecture.impl.v1.file.model.FileModel2getIdOwner()ÜÉ
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 (0H
+%4Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder"¢com.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder#idOwner(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/FileEntity$FileEntityBuilder;*J
+H
+%2Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder*
+
+%3java.lang.String2idOwner(Ljava/lang/String;)÷”
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (/
+%5java.lang.String"Tcom.example.architecture.impl.v1.file.model.FileModel#getFtpName()Ljava/lang/String;*D
+B
+	fileModel5com.example.architecture.impl.v1.file.model.FileModel2getFtpName()ÜÉ
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 (0H
+%6Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder"¢com.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder#ftpName(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/FileEntity$FileEntityBuilder;*J
+H
+%4Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder*
+
+%5java.lang.String2ftpName(Ljava/lang/String;)‡›
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (9
+%7java.lang.String"Ycom.example.architecture.impl.v1.file.model.FileModel#getOriginalName()Ljava/lang/String;*D
+B
+	fileModel5com.example.architecture.impl.v1.file.model.FileModel2getOriginalName()êç
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 (:H
+%8Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder"ßcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder#originalName(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/FileEntity$FileEntityBuilder;*J
+H
+%6Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder*
+
+%7java.lang.String2 originalName(Ljava/lang/String;)üú
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 (6
+%90com.example.architecture.impl.v1.file.FileEntity"|com.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder#build()Lcom/example/architecture/impl/v1/file/FileEntity;*J
+H
+%8Bcom.example.architecture.impl.v1.file.FileEntity$FileEntityBuilder2build()"À
+é
+É/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java	 (8
+6
+%90com.example.architecture.impl.v1.file.FileEntity:B
+	fileModel5com.example.architecture.impl.v1.file.model.FileModelB;"9
+7com.example.architecture.impl.v1.file.mapper.FileMapper

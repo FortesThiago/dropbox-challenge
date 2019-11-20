@@ -1,0 +1,46 @@
+
+½com.example.architecture.contract.v1.user.mapper.UserMapper#mapToImpl(Lcom/example/architecture/contract/v1/user/model/request/UserRequest;)Lcom/example/architecture/impl/v1/user/UserModel;–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (%"1*ª
+1–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (–
+“
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java ("F
+%0@com.example.architecture.impl.v1.user.UserModel$UserModelBuilder"{com.example.architecture.impl.v1.user.UserModel#builder()Lcom/example/architecture/impl/v1/user/UserModel$UserModelBuilder;*3"1
+/com.example.architecture.impl.v1.user.UserModelöó
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (+
+%1java.lang.String"_com.example.architecture.contract.v1.user.model.request.UserRequest#getName()Ljava/lang/String;*T
+R
+userRequestCcom.example.architecture.contract.v1.user.model.request.UserRequest2	getName()€ý
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (,F
+%2@com.example.architecture.impl.v1.user.UserModel$UserModelBuilder"›com.example.architecture.impl.v1.user.UserModel$UserModelBuilder#name(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/UserModel$UserModelBuilder;*H
+F
+%0@com.example.architecture.impl.v1.user.UserModel$UserModelBuilder*
+
+%1java.lang.String2name(Ljava/lang/String;)øõ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (-
+%3java.lang.String"`com.example.architecture.contract.v1.user.model.request.UserRequest#getEmail()Ljava/lang/String;*T
+R
+userRequestCcom.example.architecture.contract.v1.user.model.request.UserRequest2
+getEmail()‚ÿ
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (.F
+%4@com.example.architecture.impl.v1.user.UserModel$UserModelBuilder"œcom.example.architecture.impl.v1.user.UserModel$UserModelBuilder#email(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/UserModel$UserModelBuilder;*H
+F
+%2@com.example.architecture.impl.v1.user.UserModel$UserModelBuilder*
+
+%3java.lang.String2email(Ljava/lang/String;)¡ž
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (5
+%5/com.example.architecture.impl.v1.user.UserModel"ycom.example.architecture.impl.v1.user.UserModel$UserModelBuilder#build()Lcom/example/architecture/impl/v1/user/UserModel;*H
+F
+%4@com.example.architecture.impl.v1.user.UserModel$UserModelBuilder2build()"Ò
+–
+‹/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/mapper/UserMapper.java (7
+5
+%5/com.example.architecture.impl.v1.user.UserModel:R
+userRequestCcom.example.architecture.contract.v1.user.model.request.UserRequestB?"=
+;com.example.architecture.contract.v1.user.mapper.UserMapper

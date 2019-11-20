@@ -1,0 +1,21 @@
+
+Scom.example.architecture.contract.v1.user.Controller#findAllUsers()Ljava/util/List;è
+Ñ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java) )(*"1*À
+1è
+Ñ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java* *(•
+¢
+è
+Ñ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java* *(B
+%0<com.example.architecture.contract.v1.user.UserContractFacade"__id*D*B6
+4com.example.architecture.contract.v1.user.Controller"
+facadeﬁ€
+è
+Ñ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java* *($
+%1java.util.List"[com.example.architecture.contract.v1.user.UserContractFacade#findAllUsers()Ljava/util/List;*D
+B
+%0<com.example.architecture.contract.v1.user.UserContractFacade2findAllUsers()"™
+è
+Ñ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/Controller.java* *(%
+
+%1java.util.ListB86
+4com.example.architecture.contract.v1.user.Controller

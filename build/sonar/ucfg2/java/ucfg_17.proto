@@ -1,0 +1,37 @@
+
+¾com.example.architecture.contract.v1.user.UserContractFacade#searchFiles(Ljava/lang/String;Ljava/lang/String;Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java8 8(%"1*­
+1—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java9 9(¨
+¥
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java9 9(1
+%0+com.example.architecture.impl.v1.ImplFacade"__id*P*N>
+<com.example.architecture.contract.v1.user.UserContractFacade"
+
+implFacade‚ÿ
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java9 9(B*
+%1$org.springframework.data.domain.Page"­com.example.architecture.impl.v1.ImplFacade#searchFiles(Ljava/lang/String;Ljava/lang/String;Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*3
+1
+%0+com.example.architecture.impl.v1.ImplFacade*
+
+ownerIdjava.lang.String*
+
+fileNamejava.lang.String*6
+4
+pageable(org.springframework.data.domain.Pageable2[searchFiles(Ljava/lang/String;Ljava/lang/String;Lorg/springframework/data/domain/Pageable;)’
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java9 9(h*
+%2$org.springframework.data.domain.Page"morg.springframework.data.domain.Page#map(Ljava/util/function/Function;)Lorg/springframework/data/domain/Page;*,
+*
+%1$org.springframework.data.domain.Page*
+""2"map(Ljava/util/function/Function;)"È
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java9 9(i,
+*
+%2$org.springframework.data.domain.Page:
+ownerIdjava.lang.String:
+fileNamejava.lang.String:4
+pageable(org.springframework.data.domain.PageableB@>
+<com.example.architecture.contract.v1.user.UserContractFacade

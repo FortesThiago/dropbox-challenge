@@ -1,0 +1,27 @@
+
+±com.example.architecture.impl.v1.user.UserFacade#updateUser(Ljava/lang/String;Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java ("1*Ö	
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (?
+%09com.example.architecture.impl.v1.user.service.UserService"__id*A*?2
+0com.example.architecture.impl.v1.user.UserFacade"	
+serviceéæ
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (+5
+%1/com.example.architecture.impl.v1.user.UserModel"ºcom.example.architecture.impl.v1.user.service.UserService#updateUser(Ljava/lang/String;Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;*A
+?
+%09com.example.architecture.impl.v1.user.service.UserService*
+
+idjava.lang.String*9
+7
+user/com.example.architecture.impl.v1.user.UserModel2OupdateUser(Ljava/lang/String;Lcom/example/architecture/impl/v1/user/UserModel;)"Â
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (,7
+5
+%1/com.example.architecture.impl.v1.user.UserModel:
+idjava.lang.String:7
+user/com.example.architecture.impl.v1.user.UserModelB42
+0com.example.architecture.impl.v1.user.UserFacade

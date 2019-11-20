@@ -1,0 +1,5 @@
+rootProject.name = 'architecture'
+include 'contract'
+include 'impl'
+
+

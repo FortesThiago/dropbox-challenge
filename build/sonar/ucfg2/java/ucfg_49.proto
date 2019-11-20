@@ -1,0 +1,23 @@
+
+Tcom.example.architecture.impl.v1.user.UserFacade#deleteUserById(Ljava/lang/String;)Z†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java# #(!"1*·
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java$ $(–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java$ $(?
+%09com.example.architecture.impl.v1.user.service.UserService"__id*A*?2
+0com.example.architecture.impl.v1.user.UserFacade"	
+serviceûø
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java$ $("
+%1boolean"]com.example.architecture.impl.v1.user.service.UserService#deleteUserById(Ljava/lang/String;)Z*A
+?
+%09com.example.architecture.impl.v1.user.service.UserService*
+
+idjava.lang.String2"deleteUserById(Ljava/lang/String;)"‘
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java% %(
+"":
+idjava.lang.StringB42
+0com.example.architecture.impl.v1.user.UserFacade

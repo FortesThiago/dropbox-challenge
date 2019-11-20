@@ -1,0 +1,31 @@
+
+Ñcom.example.architecture.impl.v1.file.FileFacade#searchFiles(Lcom/example/architecture/impl/v1/user/UserModel;Ljava/lang/String;Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java ($"1*Ô
+
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (?
+%09com.example.architecture.impl.v1.file.service.FileService"__id*A*?2
+0com.example.architecture.impl.v1.file.FileFacade"	
+serviceòï
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (B*
+%1$org.springframework.data.domain.Page"ßcom.example.architecture.impl.v1.file.service.FileService#searchFileByName(Lcom/example/architecture/impl/v1/user/UserModel;Ljava/lang/String;Lorg/springframework/data/domain/Pageable;)Lorg/springframework/data/domain/Page;*A
+?
+%09com.example.architecture.impl.v1.file.service.FileService*:
+8
+owner/com.example.architecture.impl.v1.user.UserModel*
+
+filenamejava.lang.String*6
+4
+pageable(org.springframework.data.domain.Pageable2searchFileByName(Lcom/example/architecture/impl/v1/user/UserModel;Ljava/lang/String;Lorg/springframework/data/domain/Pageable;)"·
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/FileFacade.java (C,
+*
+%1$org.springframework.data.domain.Page:8
+owner/com.example.architecture.impl.v1.user.UserModel:
+filenamejava.lang.String:4
+pageable(org.springframework.data.domain.PageableB42
+0com.example.architecture.impl.v1.file.FileFacade

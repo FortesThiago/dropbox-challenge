@@ -1,0 +1,71 @@
+
+³com.example.architecture.impl.v1.user.mapper.UserMapper#mapToEntity(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/repository/UserEntity;Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (("1*Î%
+1Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (Á
+¾
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (#S
+%0Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder"”com.example.architecture.impl.v1.user.repository.UserEntity#builder()Lcom/example/architecture/impl/v1/user/repository/UserEntity$UserEntityBuilder;*?"=
+;com.example.architecture.impl.v1.user.repository.UserEntityÀ½
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (%
+%1java.lang.String"Icom.example.architecture.impl.v1.user.UserModel#getId()Ljava/lang/String;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2getId()¨¥
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (&S
+%2Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder"³com.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder#id(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/repository/UserEntity$UserEntityBuilder;*U
+S
+%0Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder*
+
+%1java.lang.String2id(Ljava/lang/String;)ÄÁ
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java ()
+%3java.lang.String"Kcom.example.architecture.impl.v1.user.UserModel#getName()Ljava/lang/String;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2	getName()¬©
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (*S
+%4Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder"µcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder#name(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/repository/UserEntity$UserEntityBuilder;*U
+S
+%2Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder*
+
+%3java.lang.String2name(Ljava/lang/String;)ÆÃ
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (+
+%5java.lang.String"Lcom.example.architecture.impl.v1.user.UserModel#getEmail()Ljava/lang/String;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2
+getEmail()®«
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (,S
+%6Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder"¶com.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder#email(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/repository/UserEntity$UserEntityBuilder;*U
+S
+%4Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder*
+
+%5java.lang.String2email(Ljava/lang/String;)Â¿
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (+
+%7java.util.List"Jcom.example.architecture.impl.v1.user.UserModel#getFiles()Ljava/util/List;*>
+<
+	userModel/com.example.architecture.impl.v1.user.UserModel2
+getFiles()¨¥
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (,S
+%8Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder"´com.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder#files(Ljava/util/List;)Lcom/example/architecture/impl/v1/user/repository/UserEntity$UserEntityBuilder;*U
+S
+%6Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder*
+
+%7java.util.List2files(Ljava/util/List;)ÌÉ
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (A
+%9;com.example.architecture.impl.v1.user.repository.UserEntity"’com.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder#build()Lcom/example/architecture/impl/v1/user/repository/UserEntity;*U
+S
+%8Mcom.example.architecture.impl.v1.user.repository.UserEntity$UserEntityBuilder2build()"Ö
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/mapper/UserMapper.java (C
+A
+%9;com.example.architecture.impl.v1.user.repository.UserEntity:<
+	userModel/com.example.architecture.impl.v1.user.UserModelB;"9
+7com.example.architecture.impl.v1.user.mapper.UserMapper

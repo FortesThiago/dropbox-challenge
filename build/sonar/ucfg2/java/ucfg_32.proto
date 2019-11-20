@@ -1,0 +1,45 @@
+
+Xcom.example.architecture.impl.v1.user.service.UserService#findAllusers()Ljava/util/List;ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java ('"1*…
+1ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (≤
+Ø
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository"__id*M*K;
+9com.example.architecture.impl.v1.user.service.UserService"
+
+repository◊‘
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (#
+%1java.util.List"Uorg.springframework.data.mongodb.repository.MongoRepository#findAll()Ljava/util/List;*G
+E
+%0?com.example.architecture.impl.v1.user.repository.UserRepository2	findAll()èå
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (,
+%2java.util.stream.Stream"6java.util.Collection#stream()Ljava/util/stream/Stream;*
+
+%1java.util.List2stream()◊‘
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (H
+%3java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*
+
+%2java.util.stream.Stream*
+""2"map(Ljava/util/function/Function;)õ
+ò
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.javaQ (d 
+%4java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*"
+java.util.stream.CollectorsÈÊ
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (e
+%5java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*
+
+%3java.util.stream.Stream*"
+ 
+%4java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)"´
+ê
+Ö/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/service/UserService.java (f
+
+%5java.util.ListB=;
+9com.example.architecture.impl.v1.user.service.UserService

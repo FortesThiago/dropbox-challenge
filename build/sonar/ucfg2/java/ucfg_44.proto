@@ -1,0 +1,24 @@
+
+~com.example.architecture.impl.v1.user.UserFacade#findById(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/UserModel;†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java ("1*µ
+1†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (–
+“
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (?
+%09com.example.architecture.impl.v1.user.service.UserService"__id*A*?2
+0com.example.architecture.impl.v1.user.UserFacade"	
+serviceÈÅ
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java (#5
+%1/com.example.architecture.impl.v1.user.UserModel"‡com.example.architecture.impl.v1.user.service.UserService#findById(Ljava/lang/String;)Lcom/example/architecture/impl/v1/user/UserModel;*A
+?
+%09com.example.architecture.impl.v1.user.service.UserService*
+
+idjava.lang.String2findById(Ljava/lang/String;)"Â
+†
+|/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/user/UserFacade.java ($7
+5
+%1/com.example.architecture.impl.v1.user.UserModel:
+idjava.lang.StringB42
+0com.example.architecture.impl.v1.user.UserFacade

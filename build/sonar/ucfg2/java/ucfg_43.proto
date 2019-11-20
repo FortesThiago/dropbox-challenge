@@ -1,0 +1,47 @@
+
+Ÿcom.example.architecture.impl.v1.file.mapper.FileMapper#mapToFTPFile(Lorg/apache/commons/net/ftp/FTPFile;)Lcom/example/architecture/impl/v1/file/model/FTPFile;Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (&"1*¼
+1Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (›
+˜
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java ( H
+%0Bcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder"com.example.architecture.impl.v1.file.model.FTPFile#builder()Lcom/example/architecture/impl/v1/file/model/FTPFile$FTPFileBuilder;*7"5
+3com.example.architecture.impl.v1.file.model.FTPFile¨¥
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java ('
+%1java.lang.String">org.apache.commons.net.ftp.FTPFile#getName()Ljava/lang/String;*/
+-
+ftpFile"org.apache.commons.net.ftp.FTPFile2	getName()€ý
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java ((H
+%2Bcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder"Ÿcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder#name(Ljava/lang/String;)Lcom/example/architecture/impl/v1/file/model/FTPFile$FTPFileBuilder;*J
+H
+%0Bcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder*
+
+%1java.lang.String2name(Ljava/lang/String;)‹ˆ
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java ('
+
+%3long"-org.apache.commons.net.ftp.FTPFile#getSize()J*/
+-
+ftpFile"org.apache.commons.net.ftp.FTPFile2	getSize()ÒÏ
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java ((H
+%4Bcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder"Žcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder#size(J)Lcom/example/architecture/impl/v1/file/model/FTPFile$FTPFileBuilder;*J
+H
+%2Bcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder*
+
+
+%3long2size(J)¥¢
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (9
+%53com.example.architecture.impl.v1.file.model.FTPFile"com.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder#build()Lcom/example/architecture/impl/v1/file/model/FTPFile;*J
+H
+%4Bcom.example.architecture.impl.v1.file.model.FTPFile$FTPFileBuilder2build()"Î
+Ž
+ƒ/home/thiago/Documentos/architecture-example-master/impl/src/main/java/com/example/architecture/impl/v1/file/mapper/FileMapper.java (;
+9
+%53com.example.architecture.impl.v1.file.model.FTPFile:-
+ftpFile"org.apache.commons.net.ftp.FTPFileB;"9
+7com.example.architecture.impl.v1.file.mapper.FileMapper

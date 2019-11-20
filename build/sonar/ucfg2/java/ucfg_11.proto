@@ -1,0 +1,39 @@
+
+Ñcom.example.architecture.contract.v1.user.UserContractFacade#create(Lcom/example/architecture/contract/v1/user/model/request/UserRequest;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse;—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java ("1*¡
+1—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java (¨
+¥
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java( (21
+%0+com.example.architecture.impl.v1.ImplFacade"__id*P*N>
+<com.example.architecture.contract.v1.user.UserContractFacade"
+
+implFacade¤
+¡
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java: (T5
+%1/com.example.architecture.impl.v1.user.UserModel"½com.example.architecture.contract.v1.user.mapper.UserMapper#mapToImpl(Lcom/example/architecture/contract/v1/user/model/request/UserRequest;)Lcom/example/architecture/impl/v1/user/UserModel;*?"=
+;com.example.architecture.contract.v1.user.mapper.UserMapper*M
+K
+userCcom.example.architecture.contract.v1.user.model.request.UserRequest–“
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java( (U5
+%2/com.example.architecture.impl.v1.user.UserModel"–com.example.architecture.impl.v1.ImplFacade#create(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/impl/v1/user/UserModel;*3
+1
+%0+com.example.architecture.impl.v1.ImplFacade*7
+5
+%1/com.example.architecture.impl.v1.user.UserModel29create(Lcom/example/architecture/impl/v1/user/UserModel;)ª
+§
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java (VK
+%3Ecom.example.architecture.contract.v1.user.model.response.UserResponse"Ãcom.example.architecture.contract.v1.user.mapper.UserMapper#mapToContract(Lcom/example/architecture/impl/v1/user/UserModel;)Lcom/example/architecture/contract/v1/user/model/response/UserResponse;*?"=
+;com.example.architecture.contract.v1.user.mapper.UserMapper*7
+5
+%2/com.example.architecture.impl.v1.user.UserModel"é
+—
+Œ/home/thiago/Documentos/architecture-example-master/contract/src/main/java/com/example/architecture/contract/v1/user/UserContractFacade.java (WM
+K
+%3Ecom.example.architecture.contract.v1.user.model.response.UserResponse:K
+userCcom.example.architecture.contract.v1.user.model.request.UserRequestB@>
+<com.example.architecture.contract.v1.user.UserContractFacade
